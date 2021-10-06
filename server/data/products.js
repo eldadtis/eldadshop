@@ -1,6 +1,5 @@
 const products = [
   {
-    id: "1",
     name: "Akatsuki Cloud",
     image: "/images/1_shirt.jpg",
     desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi, quaerat.",
@@ -12,7 +11,6 @@ const products = [
     stockCounter: 9,
   },
   {
-    id: "2",
     name: "Kakashi's Anbu Arc",
     image: "/images/2_shirt.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, quae!",
@@ -24,7 +22,6 @@ const products = [
     stockCounter: 0,
   },
   {
-    id: "3",
     name: "Anime Lover",
     image: "/images/3_shirt.jpg",
     desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt, eum.",
@@ -36,7 +33,6 @@ const products = [
     stockCounter: 5,
   },
   {
-    id: "4",
     name: "Mugiwara One Piece",
     image: "/images/4_shirt.jpg",
     desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, vitae!",
@@ -48,7 +44,6 @@ const products = [
     stockCounter: 2,
   },
   {
-    id: "5",
     name: "Tanjiro Kamado",
     image: "/images/5_shirt.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, delectus.",
@@ -60,7 +55,6 @@ const products = [
     stockCounter: 4,
   },
   {
-    id: "6",
     name: "My Hero Academia",
     image: "/images/6_shirt.jpg",
     desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, incidunt.",
@@ -72,7 +66,6 @@ const products = [
     stockCounter: 2,
   },
   {
-    id: "7",
     name: "Ichigo Hollow",
     image: "/images/7_shirt.jpg",
     desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit, modi!",
@@ -84,7 +77,6 @@ const products = [
     stockCounter: 7,
   },
   {
-    id: "8",
     name: "Kid Goku",
     image: "/images/8_shirt.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, repudiandae.",
