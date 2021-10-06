@@ -16,6 +16,9 @@ main {
 .card-body a {
   text-decoration: none;
 }
+.card-body a:hover {
+  text-decoration: underline;
+}
 h3 {
   font-weight: 400;
   padding-top: 1rem;
