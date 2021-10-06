@@ -1,0 +1,22 @@
+{
+  "name": "shop-app",
+  "version": "1.0.0",
+  "description": "mern",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldadtis/eldadshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldadtis/eldadshop/issues"
+  },
+  "homepage": "https://github.com/eldadtis/eldadshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
